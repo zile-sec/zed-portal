@@ -43,7 +43,7 @@
     "cmdk": "^1.0.4",
     "fs": "0.0.1-security",
     "lucide-react": "^0.454.0",
-    "next": "14.2.18",
+    "next": "14.2.35",
     "path": "0.12.7",
     "pg": "latest",
     "pg-native": "latest",
